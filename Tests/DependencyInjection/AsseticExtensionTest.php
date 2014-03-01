@@ -131,6 +131,7 @@ class AsseticExtensionTest extends \PHPUnit_Framework_TestCase
             array('packer'),
             array('phpcssembed'),
             array('pngout'),
+            array('react_jsx'),
             array('roole'),
             array('sass'),
             array('scss'),
